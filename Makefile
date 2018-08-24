@@ -1,4 +1,4 @@
-FONT_NAME   := fontawesome
+FONT_NAME   := fa5regular
 
 
 ################################################################################
@@ -16,7 +16,7 @@ dist: font html
 dump:
 	rm -rf ./src/svg/
 	mkdir ./src/svg/
-	./node_modules/.bin/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/fontawesome-webfont.svg -o ./src/svg/ -d diff.yml
+	./node_modules/.bin/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/fa-regular-400.svg -o ./src/svg/ -d diff.yml
 	rm -f ./src/svg/glyph__25fc.svg
 	./node_modules/.bin/svgo --config `pwd`/dump.svgo.yml -f ./src/svg
 
