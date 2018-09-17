@@ -117,7 +117,7 @@ glyphs:
   - css: "address-card"
     code: 0xF2BB
     uid: 26e248aab76cc387ce5cabdf2d6a87c9
-    search: []
+    search: [vcard]
   - css: angry
     code: 0xF556
     uid: 0f521dfd78b28ece3e93b5941ac3c78f
@@ -145,15 +145,15 @@ glyphs:
   - css: bell
     code: 0xF0F3
     uid: 15ad40335dbbaef14136e39b8c52e9dc
-    search: []
+    search: [alert, bell, jingle, bell-o]
   - css: bookmark
     code: 0xF02E
     uid: 33d6475d63a955359157a9ac48c60725
-    search: []
+    search: [bookmark]
   - css: building
     code: 0xF1AD
     uid: 6c8f8d748d1585d494f0ebe1411290a7
-    search: []
+    search: [building]
   - css: "calendar-alt"
     code: 0xF073
     uid: 34027029cb32fa0be91504506b734899
@@ -177,7 +177,7 @@ glyphs:
   - css: calendar
     code: 0xF133
     uid: ba05353fd0bd1877fa28728cbdeedb17
-    search: []
+    search: [calendar, date]
   - css: "caret-square-down"
     code: 0xF150
     uid: b5e55a15a064fda7b0f01f217e27e87f
@@ -197,7 +197,7 @@ glyphs:
   - css: "chart-bar"
     code: 0xF080
     uid: 57825f51434dc684685bd3ac49c42bb7
-    search: []
+    search: [chart, bar, diagram, bar-chart]
   - css: "check-circle"
     code: 0xF058
     uid: 84089c2371fdef791f1fdccc45a4df52
@@ -209,7 +209,7 @@ glyphs:
   - css: circle
     code: 0xF111
     uid: f540ddd8dae555dfdb5050421e8b1364
-    search: []
+    search: [circle]
   - css: clipboard
     code: 0xF328
     uid: 6dff29274add66cd9e875700104ef213
@@ -217,7 +217,7 @@ glyphs:
   - css: clock
     code: 0xF017
     uid: e40096c6445594f2afaa1235f99cfda5
-    search: []
+    search: [clock, time, clock-o]
   - css: clone
     code: 0xF24D
     uid: 806d68c3f6469f53d314d4e6d73f6fc3
@@ -237,7 +237,7 @@ glyphs:
   - css: comment
     code: 0xF075
     uid: 3ecdddfdd72d7a42041bcb85edec3912
-    search: []
+    search: [comment, reply, write]
   - css: comments
     code: 0xF086
     uid: 49b5518b27c449259bc10608c3fd61df
@@ -245,7 +245,7 @@ glyphs:
   - css: compass
     code: 0xF14E
     uid: f23f41ed668a3175f1233f5c21c3f428
-    search: []
+    search: [compass]
   - css: copy
     code: 0xF0C5
     uid: 8ee82863a2abc738828389d54992d301
@@ -253,11 +253,11 @@ glyphs:
   - css: copyright
     code: 0xF1F9
     uid: d8aab0ab416201da24d81d16bc7fdba9
-    search: []
+    search: [copyright]
   - css: "credit-card"
     code: 0xF09D
     uid: aec8e746b7f279676137084a1987fad7
-    search: []
+    search: [card, plastic, credit]
   - css: dizzy
     code: 0xF567
     uid: e7269e29489b03463e5eb40f962533a2
@@ -269,7 +269,7 @@ glyphs:
   - css: edit
     code: 0xF044
     uid: 7b443ceb2b4e0fdca3a176b753bf3a90
-    search: []
+    search: [pencil, write, reply, edit]
   - css: "envelope-open"
     code: 0xF2B6
     uid: 4c3bfab9e74c9ce5ab5ef31253b0bbb8
@@ -285,7 +285,7 @@ glyphs:
   - css: eye
     code: 0xF06E
     uid: 9f3b508081908f93123940cac3a8ad75
-    search: []
+    search: [eye, subscribe]
   - css: "file-alt"
     code: 0xF15C
     uid: 682a7625de11f4a53c40b63ab2eb41d0
@@ -293,39 +293,39 @@ glyphs:
   - css: "file-archive"
     code: 0xF1C6
     uid: 67f937d5f232a6074e2d894794fd0ac3
-    search: []
+    search: [file, archive, file-zip-o]
   - css: "file-audio"
     code: 0xF1C7
     uid: 26f99f74b896e4f731a2306735b396e4
-    search: []
+    search: [file, audio, sound]
   - css: "file-code"
     code: 0xF1C9
     uid: b0b405b86b829a61d7706fb6342f041a
-    search: []
+    search: [file, code]
   - css: "file-excel"
     code: 0xF1C3
     uid: 11df1366a47856a9050871ff252cb634
-    search: []
+    search: [file, excel]
   - css: "file-image"
     code: 0xF1C5
     uid: b8e6ee3adc6ae9039e9eb411721e0537
-    search: []
+    search: [file, image, picture]
   - css: "file-pdf"
     code: 0xF1C1
     uid: b4636ad27c0afd3a67f0ada3691a8980
-    search: []
+    search: [file, pdf, file-pdf-o]
   - css: "file-powerpoint"
     code: 0xF1C4
     uid: 5b3a3a27bbe84daa06b898e7d00b99b1
-    search: []
+    search: [file, powerpoint]
   - css: "file-video"
     code: 0xF1C8
     uid: 4c1212b689000cd5dfc3740044905eea
-    search: []
+    search: [file, video, movie]
   - css: "file-word"
     code: 0xF1C2
     uid: 4634ce70e152c751496c6ecbe78ffcee
-    search: []
+    search: [file, word]
   - css: file
     code: 0xF15B
     uid: 61672ad073539fb6cf3409a52ca5567b
@@ -333,7 +333,7 @@ glyphs:
   - css: flag
     code: 0xF024
     uid: f8ab512dc2bba43e94e23dc264c5539d
-    search: []
+    search: [flag]
   - css: flushed
     code: 0xF579
     uid: 140bacfb5dcdf7fff426401e953ba3b8
@@ -341,11 +341,11 @@ glyphs:
   - css: "folder-open"
     code: 0xF07C
     uid: 3759e24bfbcff871be0c55c678420de5
-    search: []
+    search: [folder]
   - css: folder
     code: 0xF07B
     uid: e55c6cc61a5eb689c039032bc34f6853
-    search: []
+    search: [folder]
   - css: "frown-open"
     code: 0xF57A
     uid: 9dd51e53448e306421e87d52be96f397
@@ -353,7 +353,7 @@ glyphs:
   - css: frown
     code: 0xF119
     uid: 1433249033337050fc644d0284085a43
-    search: []
+    search: [emoticon, sniley, frown, frown-o]
   - css: futbol
     code: 0xF1E3
     uid: 169ef6d1e894a94bf6a049d7b5d1098d
@@ -469,15 +469,15 @@ glyphs:
   - css: hdd
     code: 0xF0A0
     uid: e6726908724faaad5776fde874f68830
-    search: []
+    search: [hdd, drive, disk]
   - css: heart
     code: 0xF004
     uid: 9c78974ffc6f1162743c7c4fd1542543
-    search: []
+    search: [heart]
   - css: hospital
     code: 0xF0F8
     uid: 4676d44a6b4c9c4274ba81dddbfdf37e
-    search: []
+    search: [hospital      ]
   - css: hourglass
     code: 0xF254
     uid: 31f599c0e61cef3f763dd1a8a6525ce4
@@ -489,7 +489,7 @@ glyphs:
   - css: "id-card"
     code: 0xF2C2
     uid: ae7c02d262a774cd31f0995fdac2af7e
-    search: []
+    search: [drivers-license]
   - css: image
     code: 0xF03E
     uid: 8f88aeb44e5f08d61a2c3cdb0dc63c42
@@ -501,7 +501,7 @@ glyphs:
   - css: keyboard
     code: 0xF11C
     uid: d40a47d03b0298742988f9a5656004e0
-    search: []
+    search: [keyboard, keyboard-o]
   - css: "kiss-beam"
     code: 0xF597
     uid: 937bee88e47dd9b6a5d3747d23df32c7
@@ -541,11 +541,11 @@ glyphs:
   - css: lightbulb
     code: 0xF0EB
     uid: a5ff7cdcd26bb7660758b3cf4bd6818f
-    search: []
+    search: [idea, lamp, light, lightbulb-o]
   - css: "list-alt"
     code: 0xF022
     uid: 0618cf47321821b7210b787edc2ec76d
-    search: []
+    search: [list]
   - css: map
     code: 0xF279
     uid: 750182e0a074a71027e4f0866a8bfa2f
@@ -561,7 +561,7 @@ glyphs:
   - css: meh
     code: 0xF11A
     uid: 279b8dadc99013b4da1a50ef53cc0881
-    search: []
+    search: [emoticon, sniley, meh]
   - css: "minus-square"
     code: 0xF146
     uid: b165c39968db539f8a80d077902faf4d
@@ -573,11 +573,11 @@ glyphs:
   - css: moon
     code: 0xF186
     uid: 0ee4d9a93c42a171ea925cf9e75f2df5
-    search: []
+    search: [moon]
   - css: newspaper
     code: 0xF1EA
     uid: 24f1dfe4243912aef3810a3f017b7f23
-    search: []
+    search: [newspaper]
   - css: "object-group"
     code: 0xF247
     uid: a00661888237ffa91d59a7fb479d8c52
@@ -589,7 +589,7 @@ glyphs:
   - css: "paper-plane"
     code: 0xF1D8
     uid: 91c63a2aee3c2bf1bc55170d140876e3
-    search: []
+    search: [flight, plane, airplane, fly]
   - css: "pause-circle"
     code: 0xF28B
     uid: 1a9c9192b44f9c59ac06ecd306e7c7cf
@@ -637,7 +637,7 @@ glyphs:
   - css: smile
     code: 0xF118
     uid: 10248ed9813bad1f5bdb9b96ed1b8643
-    search: []
+    search: [emoticon, sniley, smile, happy, smile-o]
   - css: snowflake
     code: 0xF2DC
     uid: 049f00347df71824fbb825c57b89620b
@@ -649,11 +649,11 @@ glyphs:
   - css: "star-half"
     code: 0xF089
     uid: 8776ff55f936dff8c5e84d0a6b44b95f
-    search: []
+    search: [star]
   - css: star
     code: 0xF005
     uid: 45fc2ca7e5f5fec6401a476298a75137
-    search: []
+    search: [star]
   - css: "sticky-note"
     code: 0xF249
     uid: 0e4d0b72daed5b4d02feb94c72fd46c6
@@ -665,7 +665,7 @@ glyphs:
   - css: sun
     code: 0xF185
     uid: bc094948b1be47903a5a1a93570db027
-    search: []
+    search: [sun, sun-o]
   - css: surprise
     code: 0xF5C2
     uid: f5dad95b84db3f81959b46b5fadb3a35
@@ -673,11 +673,11 @@ glyphs:
   - css: "thumbs-down"
     code: 0xF165
     uid: 8776575538614a2f207cc7f797d06d1d
-    search: []
+    search: [thumbs, vote, down, unlike, dislike, thumbs-o-down]
   - css: "thumbs-up"
     code: 0xF164
     uid: 534d04069f9f3bcd2e2e012e18e2c988
-    search: []
+    search: [thumbs, vote, up, like, love, thumbs-o-up]
   - css: "times-circle"
     code: 0xF057
     uid: 3999d4c8fdcb652f138c2f1690cc2cfc
@@ -697,11 +697,11 @@ glyphs:
   - css: user
     code: 0xF007
     uid: d0b7205c56c55798e8e2d0931aee7518
-    search: []
+    search: [profile, contact, user]
   - css: "window-close"
     code: 0xF410
     uid: 38f12a427929894c953bf3770e90d796
-    search: []
+    search: [times-rectangle]
   - css: "window-maximize"
     code: 0xF2D0
     uid: b5d443713b85189fe4110789845c0514
