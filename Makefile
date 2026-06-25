@@ -18,7 +18,7 @@ dump:
 	mkdir ./src/svg/
 	./node_modules/.bin/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/fa-regular-400.svg -o ./src/svg/ -d diff.yml
 	rm -f ./src/svg/glyph__25fc.svg
-	./node_modules/.bin/svgo --config `pwd`/dump.svgo.yml -f ./src/svg
+	./node_modules/.bin/svgo --config `pwd`/dump.svgo.mjs -f ./src/svg
 
 
 font:
@@ -39,7 +39,7 @@ font:
 
 html:
 	@./node_modules/.bin/js-yaml -j config.yml > config.json
-	@./node_modules/.bin/jade -O ./config.json ./src/demo/demo.jade -o ./font
+	@./node_modules/.bin/pug --obj ./config.json ./src/demo/demo.pug -o ./font
 	@rm config.json
 
 
