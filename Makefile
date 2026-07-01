@@ -16,7 +16,7 @@ dist: font html
 dump:
 	rm -rf ./src/svg/
 	mkdir ./src/svg/
-	./node_modules/.bin/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/fa-regular-400.svg -o ./src/svg/ -d diff.yml
+	./node_modules/.bin/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/icons.json -o ./src/svg/ -d diff.yml -n
 	rm -f ./src/svg/glyph__25fc.svg
 	./node_modules/.bin/svgo --config `pwd`/dump.svgo.mjs -f ./src/svg
 
