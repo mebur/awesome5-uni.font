@@ -2406,18 +2406,6 @@ glyphs:
     code: 62501
     uid: d833cb238e45724d4d79a827e5ae865e
     search: []
-  - css: font-awesome-logo-full-regular
-    code: 62694
-    uid: 208430842d5ab151f2c11493dc5beeec
-    search: &ref_59 []
-  - css: font-awesome-logo-full-solid
-    code: 62694
-    uid: ee9170e0afc1bb3776e2cecfd4ded709
-    search: *ref_59
-  - css: font-awesome-logo-full-brands
-    code: 62694
-    uid: b29442f480783b5bd2b4166768069381
-    search: *ref_59
   - css: fonticons
     code: 62080
     uid: 27724d3a0f9018e1e20198c5a578caf7
